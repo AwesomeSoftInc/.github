@@ -1,11 +1,3 @@
-the fog is coming
-
-the fog is coming
-
-the fog is coming
-
-ahhh!!
-
-AND TOMAS TOO?
-
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH!
+Projects related to, and/or for,
+- Funny Wars
+- A semi-private Minecraft server
